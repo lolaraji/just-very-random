@@ -26,9 +26,10 @@ justVeryRandom.rand(MINIMUM, MAXIMUM)
 ```
 
 ## Links ##
-* NPMJS Page: https://www.npmjs.com/package/just-very-random/
+* NPMJS Page: https://www.npmjs.com/packages/just-very-random/
 
-## Credits ##
+## Credit(s) ##
 * Primary Contributer: Lola Raji
+
     * GitHub: https://www.github.com/lolaraji/
     * NPMJS: https://www.npmjs.com/~lolaraji/
