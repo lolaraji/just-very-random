@@ -5,13 +5,13 @@ In order to use 'just-very-random', you'll need to have NodeJS installed on your
 * https://nodejs.org/en/download/
 
 ## Pre-Installation ##
-If you've programmed using NodeJS before, you don't won't need to read this section. However, if you're quite new, it's definitely recommended. In order to begin to use 'just-very-random', you'll need to require the package by entering the following JavaScript code:
+If you've programmed using NodeJS before, you won't need to read this section. However, if you're quite new, it's definitely recommended. In order to begin to use 'just-very-random', you'll need to require the package by entering the following JavaScript code:
 
 ``` javascript
 const justVeryRandom = require('just-very-random')
 ```
 
-## Instalation ##
+## Installation ##
 To install 'just-very-random', enter the command below into a terminal or command line.
 
 ``` bash
